@@ -1,0 +1,34 @@
+h1 {
+  color: lightcoral;
+  font-size: 50px;
+}
+.paragraph:hover {
+  color: green;
+  font-size: 30px;
+}
+#p1:hover {
+  color: red;
+  font-size: 20px;
+}
+.Pingvinlar {
+  background-color: lightcoral;
+}
+.Pingvinlar:hover {
+  caret-color: lightseagreen;
+  height: 300px;
+}
+.Pingvinlar:hover {
+  background-color: indigo;
+  border-radius: 100px;
+}
+.red-heart:hover {
+  height: 300px;
+  background-color: lightskyblue;
+}
+.Panda:hover {
+  border-radius: 100%;
+  background-color: hotpink;
+}
+#head1 {
+  color: green;
+}
